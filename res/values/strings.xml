@@ -2,7 +2,9 @@
 <resources>
 
     <string name="app_name">AudioPong</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
-    <string name="dummy_button">Dummy Button</string>
+    <string name="start">START</string>
+    <string name="gameName">Audio Pong</string>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
 
 </resources>
